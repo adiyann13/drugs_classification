@@ -1,0 +1,1 @@
+##this project is about is end to end machine learning for drugs classficiation for the given input features##
