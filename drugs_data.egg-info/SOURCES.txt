@@ -1,0 +1,10 @@
+README.md
+setup.py
+drugs_data.egg-info/PKG-INFO
+drugs_data.egg-info/SOURCES.txt
+drugs_data.egg-info/dependency_links.txt
+drugs_data.egg-info/requires.txt
+drugs_data.egg-info/top_level.txt
+src/__init__.py
+src/components/__init__.py
+src/pipelines/__init__.py
